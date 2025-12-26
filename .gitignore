@@ -243,6 +243,7 @@ marimo/_lsp/
 __marimo__/
 
 # =========================
-# PROJECT-SPECIFIC (ML)
+# PROJECT-SPECIFIC (ML/DL)
 # =========================
 dataset/
+*.h5
